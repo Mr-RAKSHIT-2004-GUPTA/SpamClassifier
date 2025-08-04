@@ -1,0 +1,9 @@
+nltk
+pandas 
+numpy
+scikit-learn
+matplotlib
+seaborn
+requests
+flask
+Flask-Cors
